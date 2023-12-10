@@ -1,6 +1,6 @@
 set terminal pngcairo size 1000,1000
 
-set output 'fcc.png'
+set output 'fccPath.png'
 
 set zrange [-1:10]
 set xrange [-9:9]
